@@ -97,3 +97,4 @@ function calcResult(userOption, machineOption) {
     }
 }
 
+
