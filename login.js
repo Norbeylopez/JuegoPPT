@@ -31,7 +31,7 @@ class Login {
         btn.addEventListener('click', (e) => {
             e.preventDefault(); // Evitar el envío del formulario
             this.validarCredenciales();
-            window.location.href="index.html";
+            window.location.href="juego.html";
         });
     }
 }
